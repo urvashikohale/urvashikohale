@@ -20,7 +20,9 @@
 🌐 Check out my portfolio website to see some of my projects and learn more about my experience: **https://urvashikohale.netlify.app/**
 
 🔗 **Connect with me:**
+
 **- LinkedIn: https://www.linkedin.com/in/urvashikohale/** 
+
 **- Email: kohaleurvashi@gmail.com**
 
 ✨ Open to freelance opportunities and exciting job offers!
