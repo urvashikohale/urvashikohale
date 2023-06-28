@@ -1,9 +1,9 @@
 
-👋 Hello, I'm [Your Name]!
+👋 Hello, I'm Urvashi Kohale!
 
-🌐 Full Stack Developer | 💻 JavaScript | ReactJs | MERN Stack
+🌐 Full Stack Developer | 💻 JavaScript | ReactJS | MERN Stack
 
-👨‍💻 Passionate about building scalable and user-friendly web applications. I enjoy working with modern web technologies and frameworks like ReactJS, Node.js, and ExpressJS.
+👨‍💻 Passionate about building scalable and user-friendly web applications. I enjoy working with modern web technologies and frameworks like ReactJS, NodeJS, and ExpressJS.
 
 🔧 Skills:
 - Frontend: HTML5, CSS3, JavaScript, ReactJS, Redux, Bootstrap, Material-UI
@@ -20,7 +20,7 @@
 🌐 Check out my portfolio website to see some of my projects and learn more about my experience: https://urvashikohale.netlify.app/
 
 🔗 Connect with me:
-- LinkedIn: [Your LinkedIn Profile URL]
+- LinkedIn: https://www.linkedin.com/in/urvashikohale/ 
 - Twitter: [Your Twitter Handle]
 - Email: [Your Email Address]
 
