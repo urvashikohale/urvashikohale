@@ -1,6 +1,8 @@
 
 ### 👋 Hello, I'm Urvashi Kohale!
 
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=urvashikohale&color=green alt=urvashikohale/> </p>
+
 🌐 Full Stack Developer | 💻 JavaScript | ReactJS | MERN Stack
 
 👨‍💻 Passionate about building scalable and user-friendly web applications. I enjoy working with modern web technologies and frameworks like **ReactJS, NodeJS, and ExpressJS.**
