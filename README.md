@@ -3,18 +3,15 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=urvashikohale&color=green alt=urvashikohale/> </p>
 
-🌐 Full Stack Developer | 💻 JavaScript | ReactJS | MERN Stack
+🌐 Software Engineer | Problem Solver | Learner
 
-👨‍💻 Passionate about building scalable and user-friendly web applications. I enjoy working with modern web technologies and frameworks like **ReactJS, NodeJS, and ExpressJS.**
+👨‍💻 I am a passionate software engineer with a strong foundation in computer science and hands on experience building scalable, reliable, and user friendly applications. I enjoy tackling complex problems, writing clean and maintainable code, and continuously learning new technologies to stay ahead in the ever evolving tech landscape.
 
 🔧 Skills:
-- Frontend: **HTML5, CSS3, JavaScript, ReactJS, Redux, Bootstrap, Material-UI**
-- Backend: **Node.js, ExpressJS, Mongoose**
-- Databases: **MongoDB**
-- Frameworks & Tools: **RestAPIs, JSON Web Token(JWT), NPM, Postman, Passport.JS, Visual Studio**
-- Version Control: **Git, GitHub**
-- Deployment: **Heroku, Netlify, Render, CI/CD**
-
+- Technical Skills: **Python, Java, JavaScript/TypeScript, React, Node.js, SQL/NoSQL, Cloud (AWS | Azure | GCP), Docker, Kubernetes**
+- Focus Areas: **Software Engineering, Distributed Systems, Machine Learning, Cloud Native Applications**
+- Interests: **Building impactful products, exploring emerging technologies, and contributing to open source**
+  
 🌱 Constantly learning and exploring new tools and technologies to enhance my development skills.
 
 📫 Let's connect and collaborate on exciting projects! Feel free to reach out to me through my email or social media links. I'm always open to new opportunities and collaborations.
