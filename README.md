@@ -3,9 +3,9 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=urvashikohale&color=green alt=urvashikohale/> </p>
 
-🌐 Software Engineer | Problem Solver | Learner
+👨‍💻 Software Engineer | Problem Solver | Learner
 
-👨‍💻 I am a passionate software engineer with a strong foundation in computer science and hands on experience building scalable, reliable, and user friendly applications. I enjoy tackling complex problems, writing clean and maintainable code, and continuously learning new technologies to stay ahead in the ever evolving tech landscape.
+🌐 I am a software engineer with experience in full stack development, cloud computing, and applied machine learning. I enjoy designing scalable systems, building intuitive applications, and solving real world problems with clean, maintainable code.
 
 🔧 Skills:
 - Technical Skills: **Python, Java, JavaScript/TypeScript, React, Node.js, SQL/NoSQL, Cloud (AWS | Azure | GCP), Docker, Kubernetes**
