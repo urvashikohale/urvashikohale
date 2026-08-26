@@ -1,81 +1,58 @@
-<div align="center">
+<h1 align="center">Hi, I'm Urvashi 👋</h1>
 
-# Hi, I'm Urvashi Kohale 👋
+<h3 align="center">Backend & Cloud Infra Engineer | Building Agentic AI Systems</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=760&lines=Backend+%26+Distributed+Systems+Engineer;Building+Cloud-Native+Software;Developing+Production-Oriented+AI+Systems;Seeking+Full-Time+SDE+Roles)](https://git.io/typing-svg)
+<p align="center">
+MS Software Engineering @ SJSU · Graduating Dec 2026 · Actively seeking New Grad SDE roles
+</p>
 
-**Software Engineer Intern @ Tesla · M.S. Software Engineering @ SJSU · Graduating December 2026**
+<br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://urvashikohale.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/urvashikohale/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kohaleurvashi@gmail.com)
+### What I build
 
-</div>
+I focus on backend systems, distributed infrastructure, and cloud deployment — and apply that foundation to build agentic AI and ML-powered systems that actually run in production, not just notebooks.
 
-## About Me
+<br>
 
-I'm a software engineer focused on **backend systems, distributed computing, cloud infrastructure, and applied AI**. I enjoy turning complex engineering problems into reliable, scalable software—from fault-tolerant storage and real-time event pipelines to multimodal AI applications.
+### Featured Projects
 
-- 🎓 Pursuing an **M.S. in Software Engineering at San José State University**
-- 💼 Currently a **Software Engineer Intern at Tesla**
-- 🧩 Experienced with backend services, microservices, distributed systems, and cloud-native development
-- 🤖 Building production-oriented AI systems using RAG, multimodal models, and asynchronous pipelines
-- 🔍 Seeking **full-time Software Development Engineer roles** for December 2026 graduation
+**🧠 [VitaLens — Vision-Language Nutrition Agent](https://github.com/urvashikohale/258_VLM_Nutrition_Agent)**
+Agentic AI system combining GPT-4o / Qwen-VL vision models with a RAG pipeline to classify food images and generate personalized nutrition guidance. Built evaluation pipelines benchmarking multiple VLM backends on accuracy and latency.
+`Python` `FastAPI` `React` `RAG` `USDA FDC API`
 
-## Engineering Focus
+**⚡ Event Real-Time Analytics Platform**
+Real-time data pipeline ingesting and processing 30K events/min via Kafka streaming. Cut event processing latency from ~4s to <1s through optimized batch consumption.
+`Apache Kafka` `Python`
 
-```text
-Distributed Systems  → replication, consistency, concurrency, fault tolerance
-Backend Engineering  → APIs, microservices, databases, event-driven systems
-Cloud Infrastructure → Kubernetes, containers, CI/CD, observability, IaC
-AI Infrastructure    → RAG pipelines, vector databases, multimodal applications
-```
+**🗄️ [Distributed File Storage System (GFS)](https://github.com/urvashikohale/GFS_Google_File_System)**
+Implementation of Google File System principles in C++ — multi-server architecture with block replication and data mirroring for fault tolerance.
+`C++` `RPC` `AsyncIO`
 
-## Selected Work
+**☁️ [Eventure — Event Management Platform](https://github.com/urvashikohale/Eventure--TicketMaster-Clone)**
+Full-stack platform with OAuth 2.0 / JWT auth, QR-based ticketing, and AWS deployment via a Jenkins CI/CD pipeline.
+`Spring Boot` `Next.js` `MongoDB` `AWS` `Jenkins`
 
-| Project | Engineering highlights | Technologies |
-|---|---|---|
-| [Distributed File Storage](https://github.com/urvashikohale/GFS_Google_File_System) | GFS-inspired storage with replication factor 3, heartbeats, recovery, per-chunk locking, lease-based consistency, and 100+ concurrent requests | C++, gRPC, Multithreading |
-| [EduTok Engine](https://github.com/urvashikohale/EduTok-Engine---Multimodal-AI-Agent) | Multimodal document-to-video pipeline using retrieval, background workers, and scalable asynchronous processing | Python, FastAPI, Celery, Redis, RAG |
-| **Real-Time Event Analytics** | Event pipeline processing approximately 30K events/min; reduced end-to-end latency from about 4 seconds to under 1 second | Kafka, Python, PostgreSQL |
-| **VitaLens** | Vision-language nutrition agent combining multimodal reasoning with verified food and nutrition data | GPT-4o, Qwen-VL, LLaVA, FastAPI, React |
+**✈️ [Flight Delay Prediction](https://github.com/urvashikohale/Flight-Delay-Prediction-using-machine-learning)**
+ML pipeline comparing Logistic Regression, Decision Tree, Random Forest, and XGBoost to predict 15+ minute flight delays (F1 0.71).
+`Python` `XGBoost` `scikit-learn`
 
-## Tech Stack
+<br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=google&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+### Tech Stack
 
-## Beyond the Code
+**Languages:** ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python) ![Java](https://img.shields.io/badge/-Java-333?style=flat-square&logo=openjdk) ![C++](https://img.shields.io/badge/-C++-333?style=flat-square&logo=cplusplus) ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
 
-- I care about measurable performance, reliability, observability, and clear engineering trade-offs.
-- I enjoy collaborating across teams and translating ambiguous requirements into production-ready systems.
-- My current interests include GPU inference, AI serving systems, distributed data platforms, and developer infrastructure.
+**Backend & Infra:** ![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat-square&logo=fastapi) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333?style=flat-square&logo=springboot) ![Kafka](https://img.shields.io/badge/-Kafka-333?style=flat-square&logo=apachekafka) ![Redis](https://img.shields.io/badge/-Redis-333?style=flat-square&logo=redis) ![gRPC](https://img.shields.io/badge/-gRPC-333?style=flat-square&logo=grpc)
 
-<div align="center">
+**Cloud & DevOps:** ![AWS](https://img.shields.io/badge/-AWS-333?style=flat-square&logo=amazonaws) ![Docker](https://img.shields.io/badge/-Docker-333?style=flat-square&logo=docker) ![Jenkins](https://img.shields.io/badge/-Jenkins-333?style=flat-square&logo=jenkins) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333?style=flat-square&logo=githubactions)
 
-### Let's build reliable systems that create real impact.
+**AI/ML & Agentic:** ![OpenAI](https://img.shields.io/badge/-GPT--4o-333?style=flat-square&logo=openai) ![LangChain](https://img.shields.io/badge/-LangChain-333?style=flat-square) ![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat-square&logo=pytorch) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat-square&logo=tensorflow)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Urvashi_Kohale-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/urvashikohale/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-urvashikohale.netlify.app-14B8A6?style=flat-square&logo=netlify&logoColor=white)](https://urvashikohale.netlify.app/)
+**Databases:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat-square&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat-square&logo=mongodb)
 
-</div>
+<br>
+
+<p align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=urvashikohale&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urvashikohale&layout=compact&hide_border=true&theme=default" />
+</p>
