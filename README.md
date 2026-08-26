@@ -176,7 +176,7 @@ I'm currently seeking **full-time new-grad Software Development Engineer opportu
 
 **Full-Stack · Backend · Cloud · Infrastructure · Data · AI/ML**
 
-📍 San Jose, California &nbsp;•&nbsp; 📅 Available after December 2026
+📍 San Jose, California &nbsp;•&nbsp; 📅 Graduating December 2026
 
 [LinkedIn](https://www.linkedin.com/in/urvashikohale/) &nbsp;•&nbsp;
 [Portfolio](https://urvashikohale.netlify.app/)
