@@ -20,9 +20,9 @@
 ## 👩‍💻 About Me
 
 
-Welcome to my GitHub! I'm Urvashi Kohale, a Software Engineer and M.S. Software Engineering student at San José State University, graduating in December 2026. I enjoy building software across the stack—from responsive user interfaces and scalable backend APIs to distributed systems, cloud infrastructure, data pipelines, and AI-powered applications.
+I'm Urvashi Kohale, a **Software Engineer** and **M.S. Software Engineering student** at San José State University, graduating in **December 2026**. I enjoy building software across the stack from responsive user interfaces and scalable backend APIs to distributed systems, cloud infrastructure, data pipelines, and AI-powered applications.
 
-I'm currently seeking **full-time new-grad Software Development Engineer opportunities** and am open to general software engineering, full-stack, backend, platform, infrastructure, cloud, data, and AI/ML engineering roles.
+I'm currently seeking **full-time new-grad Software Development Engineer opportunities** and am open to full-stack, backend, platform, infrastructure, cloud, data, and AI/ML engineering roles.
 
 ---
 
