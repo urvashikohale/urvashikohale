@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=14B8A6&center=true&vCenter=true&width=760&lines=Software+Engineer;Backend+%26+Full-Stack+Developer;Cloud+%26+Distributed+Systems;AI%2FML+Application+Developer;Seeking+Full-Time+New-Grad+SDE+Roles)](https://git.io/typing-svg)
 
 🎓 **M.S. Software Engineering @ SJSU** &nbsp;•&nbsp;
-💼 **Software Engineer Intern @ Tesla** &nbsp;•&nbsp;
 📅 **Graduating December 2026**
 
 <br>
@@ -20,9 +19,8 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Software Engineer and M.S. Software Engineering student at San José State University**, graduating in December 2026. I have experience building software across the stack—from responsive user interfaces and scalable backend APIs to distributed systems, cloud infrastructure, data pipelines, and AI-powered applications.
 
-I enjoy taking ownership of problems from design through deployment: understanding requirements, designing maintainable solutions, writing clean and tested code, working with databases and APIs, and improving performance and reliability in production. My background includes **full-stack development, backend engineering, cloud-native systems, distributed computing, DevOps, data engineering, and applied AI/ML**.
+Welcome to my GitHub! I'm Urvashi Kohale, a Software Engineer and M.S. Software Engineering student at San José State University, graduating in December 2026. I enjoy building software across the stack—from responsive user interfaces and scalable backend APIs to distributed systems, cloud infrastructure, data pipelines, and AI-powered applications.
 
 I'm currently seeking **full-time new-grad Software Development Engineer opportunities** and am open to general software engineering, full-stack, backend, platform, infrastructure, cloud, data, and AI/ML engineering roles.
 
@@ -176,7 +174,7 @@ I'm currently seeking **full-time new-grad Software Development Engineer opportu
 
 ### 🔍 Open to Full-Time New-Grad Software Engineering Opportunities
 
-**General Software Engineering · Full-Stack · Backend · Cloud · Infrastructure · Data · AI/ML**
+**Full-Stack · Backend · Cloud · Infrastructure · Data · AI/ML**
 
 📍 San Jose, California &nbsp;•&nbsp; 📅 Available after December 2026
 
