@@ -47,9 +47,8 @@ I'm currently seeking **full-time new-grad Software Development Engineer opportu
 ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=google&logoColor=white)
 ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-0F766E?style=flat-square)
 
-- Implemented a metadata server, chunk servers, replication factor of three, heartbeats, and failure recovery.
-- Added multithreaded reads and writes, per-chunk locking, strict lock ordering, and lease-based consistency.
-- Designed the system to support more than 100 concurrent client requests.
+- Implemented a distributed file system like Google File System (GFS) principles in C++ using the RPC version.
+-Created 3 servers and performed data replication strategies, block replication, data mirroring, to achieve high
 
 <br>
 
@@ -61,9 +60,9 @@ I'm currently seeking **full-time new-grad Software Development Engineer opportu
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-- Built a pipeline processing approximately 30,000 events per minute.
-- Reduced end-to-end latency from approximately four seconds to under one second using batching and bulk inserts.
-- Added consumer-lag monitoring, offset management, backpressure handling, and scalable consumers.
+- Built a Kafka based pipeline to process streaming user activity and power real time analytics dashboards.
+- Optimized batch consumption to significantly reduce event processing latency.
+
 
 <br>
 
@@ -77,8 +76,6 @@ I'm currently seeking **full-time new-grad Software Development Engineer opportu
 ![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square)
 
 - Developed a document-to-video workflow combining retrieval, content generation, and media processing.
-- Used FastAPI, Celery, and Redis to execute long-running tasks asynchronously and in parallel.
-- Designed retrieval workflows using LangChain and ChromaDB for contextual grounding.
 
 <br>
 
