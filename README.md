@@ -63,7 +63,6 @@ I'm currently seeking **full-time new-grad Software Development Engineer opportu
 - Built a Kafka based pipeline to process streaming user activity and power real time analytics dashboards.
 - Optimized batch consumption to significantly reduce event processing latency.
 
-
 <br>
 
 ### 🎓 [EduTok Engine](https://github.com/urvashikohale/EduTok-Engine---Multimodal-AI-Agent)
@@ -76,7 +75,7 @@ I'm currently seeking **full-time new-grad Software Development Engineer opportu
 ![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square)
 
 - Developed a document-to-video workflow combining retrieval, content generation, and media processing.
-
+  
 <br>
 
 ### 🥗 VitaLens
